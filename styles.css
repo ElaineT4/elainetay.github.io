@@ -397,7 +397,7 @@
     border-radius: 5px;
     font-weight: 500;
     display: inline-block;
-    margin-top: 1.08rem;
+    margin-top: 1.1rem;
     transition: background 0.3s ease;
   }
   .btn:hover {
@@ -511,7 +511,7 @@
     }
 
     .skills-preview-content .skills-tags {
-        margin-top: 10px;
+        margin-top: 20px;
     }
 
   }
