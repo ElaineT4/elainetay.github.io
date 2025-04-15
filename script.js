@@ -33,7 +33,7 @@ const projectsData = {
   },
   "Foodies.MY": {
     type: "image",
-    imageSrc: "Website/Foodies.MY/Foodies.MY.png",
+    imageSrc: "Website/Foodies.My/Foodies.MY.png",
     description: "Foodies.MY is a website that work as a guide for Malaysian food lovers. Users can search best food or restaurants and cafes around their preferred areas.  Users can also find more information by searching dish name, select their preferred area, and also through articles, food attractions as well as top ranking dishes features in the website.  ",
     duration: "1 months",
     tools: ["HTML/CSS"]
