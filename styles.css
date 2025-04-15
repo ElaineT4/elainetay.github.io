@@ -510,8 +510,8 @@
       margin: 0;   
     }
 
-    .skills-preview-content .skills-tags {
-        margin-top: 30px;
+    .skills-preview-content .skills-tags .tags span{
+        margin-top: 15px;
     }
 
   }
