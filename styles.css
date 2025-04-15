@@ -493,7 +493,7 @@
     }
 
     .hero p {
-      font-size: 1rem;
+      font-size: 0.8rem;
     }
   
     .navbar .container {
@@ -511,8 +511,10 @@
     }
 
     .skills-preview-content .skills-tags {
-        margin-top: 20px;
+        margin-top: 30px;
     }
 
   }
+
+
   
