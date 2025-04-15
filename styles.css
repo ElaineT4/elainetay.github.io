@@ -493,7 +493,7 @@
     }
 
     .hero p {
-      font-size: 1rem;
+      font-size: 0.8rem;
     }
   
     .navbar .container {
@@ -512,7 +512,7 @@
 
       @media (max-width: 600px){
         .hero p {
-      font-size: 1rem;
+      font-size: 0.8rem;
     }
     )
   }
