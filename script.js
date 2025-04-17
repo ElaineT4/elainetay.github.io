@@ -12,14 +12,14 @@ const imageSliderId = "image-slider";
 const projectsData = {
   "PlantCare Monitoring System": {
     type: "video",
-    videoSrc: "Website/Video/PlantCare System.mp4",
+    videoSrc: "Website/Video/Plantcare System.mp4",
     description: "PlantCare System is a A smart system to monitor plant health using IoT sensors. The system that integrates Arduino hardware to monitor and provide real-time feedback on indoor plant environment. The readings collected from the hardware will be analyzed and stored in the database and users will be alerted when the readings are out of normal range.",
     duration: "2 months",
     tools: ["Arduino IDE", "JavaScript", "PHP", "MySQL", "HTML/CSS"]
   },
   "PediaSure": {
     type: "video",
-    videoSrc: "Website/Video/PediaSure.mkv",
+    videoSrc: "Website/Video/Pediasure.mkv",
     description: "The Pediasure microsite is a dynamic and user-friendly platform designed to introduce the new Strawberry flavor in the Pediasure Gold series. It features a promotional video that highlights the new flavor's key benefits, providing an engaging and informative experience for users. The site was built with a focus on creating a seamless and interactive experience for parents and caregivers, making it easy to explore the product's information and appeal",
     duration: "2 months",
     tools: ["HTML/CSS", "JavaScript"]
