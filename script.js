@@ -206,3 +206,16 @@ window.addEventListener("click", (e) => {
     if (slider) slider.remove();
   }
 });
+
+const currentPage = location.pathname.split("/").pop() || "index.html";
+const navLinks = document.querySelectorAll(".nav-links a");
+
+navLinks.forEach(link => {
+  const linkHref = link.getAttribute("href").split("/").pop();
+
+  // Only apply to links that are actual pages (not anchors like "#contact")
+  if (linkHref === currentPage) {
+    link.classList.add("active");
+  }
+});
+
