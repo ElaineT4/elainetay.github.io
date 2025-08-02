@@ -43,11 +43,11 @@ const projectsData = {
     imageSrc: "Website/YPC AI Chatbot/Screenshot 2025-03-23 203547.png",
     description: "YPC AI Chatbot is a virtual assistant designed for YPC students, that integrates with Google Classroom to provide academic-related responses based on available course information.",
     duration: "6 months",
-    tools: ["Python", "Flask", "MySQL", "HTML/CSS"]
+    tools: ["RegEx","JSON","Python", "Flask", "MySQL", "JavaScript","HTML/CSS"]
   },
   "Elysian&Co": {
     type: "video",
-    videoSrc: "Elysian&Co/Elysian&Co.WEBM",
+    videoSrc: "Elysian&Co/Elysian&Co.webm",
     description: "Elysian&Co is a responsive e-commerce website for a fictional jewellery brand. The functionality of the website includes shopping-cart system and product filtering. The website also implemented interactive elements such as hover effects, image transitions, and responsive layouts.",
     duration: "3 months",
     tools: ["HTML/CSS", "JavaScript"]
@@ -225,5 +225,6 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
 
