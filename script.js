@@ -45,6 +45,13 @@ const projectsData = {
     duration: "6 months",
     tools: ["Python", "Flask", "MySQL", "HTML/CSS"]
   },
+  "Elysian&Co": {
+    type: "video",
+    videoSrc: "Elysian&Co/Elysian&Co.WEBM",
+    description: "Elysian&Co is a responsive e-commerce website for a fictional jewellery brand. The functionality of the website includes shopping-cart system and product filtering. The website also implemented interactive elements such as hover effects, image transitions, and responsive layouts.",
+    duration: "3 months",
+    tools: ["HTML/CSS", "JavaScript"]
+  },
   "Aries": {
     type: "video",
     videoSrc: "Animation/Aries.mp4",
@@ -218,4 +225,5 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
