@@ -97,6 +97,10 @@ const projectsData = {
       "Logo/Penpals Logo.png",
       "Logo/Penpals Logo2.png"
     ],
+    description: "A logo designed for a stationary brand.",
+    duration: "3 days",
+    tools: ["Illustrator"]
+  },
   "Hustle& Bustle": {
     type: "image",
     imageSrc: "Typography/Typography-1.PNG",
@@ -237,6 +241,7 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
 
 
