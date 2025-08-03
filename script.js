@@ -85,6 +85,18 @@ const projectsData = {
     duration: "1 week",
     tools: ["HTML/CSS", "JavaScript"]
   },
+  "Donut House": {
+    type: "image",
+    imageSrc: "Logo/Donut House Logo.PNG",
+    duration: "1 day",
+    tools: ["Illustrator"]
+  },
+  "Penpals": {
+    type: "slider",
+    images: [
+      "Logo/Penpals Logo.png",
+      "Logo/Penpals Logo2.png"
+    ],
   "Hustle& Bustle": {
     type: "image",
     imageSrc: "Typography/Typography-1.PNG",
@@ -225,6 +237,7 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
 
 
