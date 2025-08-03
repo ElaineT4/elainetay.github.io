@@ -66,6 +66,23 @@ const projectsData = {
     duration: "3 weeks",
     tools: ["Photoshop", "Illustrator"]
   },
+  "Donut House": {
+    type: "image",
+    imageSrc: "Logo/Donut House Logo.png",
+    description: "Logo designed for a donut brand.",
+    duration: "3 days",
+    tools: ["Illustrator"]
+  },
+  "Penpals": {
+    type: "slider",
+    images: [
+      "Logo/Penpals Logo.png",
+      "Logo/Penpals Logo2.png"
+    ],
+    description: "Logo designed for a stationary brand.",
+    duration: "5 days",
+    tools: ["Illustrator"]
+  },
   "BasketShot": {
     type: "slider",
     images: [
@@ -225,6 +242,7 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
 
 
