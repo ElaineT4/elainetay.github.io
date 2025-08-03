@@ -77,7 +77,7 @@ const projectsData = {
     type: "slider",
     images: [
       "Logo/Penpals Logo.png",
-      "Logo/Penpals Logo2.png"
+      "Logo/Penpals Logo 2.png"
     ],
     description: "Logo designed for a stationary brand.",
     duration: "5 days",
@@ -242,6 +242,7 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
 
 
