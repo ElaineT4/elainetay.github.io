@@ -52,6 +52,13 @@ const projectsData = {
     duration: "3 months",
     tools: ["HTML/CSS", "JavaScript"]
   },
+  "After Hour": {
+    type: "video",
+    videoSrc: "UIUX/After Hour Prototype.mp4",
+    description: "After Hour is a high-fidelity mobile food ordering system prototype for a coffee shop. Focusing on an intuitive user experience for ordering food and drinks, he prototype includes homepage, category page, item detail page, cart and checkout flow as well as a order-history page.",
+    duration: "3 weeks",
+    tools: ["Figma"]
+  },
   "Aries": {
     type: "video",
     videoSrc: "Animation/Aries.mp4",
@@ -242,6 +249,7 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
 
 
