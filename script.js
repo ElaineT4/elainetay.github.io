@@ -48,14 +48,14 @@ const projectsData = {
   "Elysian&Co": {
     type: "video",
     videoSrc: "Elysian&Co/Elysian&Co.webm",
-    description: "Elysian&Co is a responsive e-commerce website for a fictional jewellery brand. The functionality of the website includes shopping-cart system and product filtering. The website also implemented interactive elements such as hover effects, image transitions, and responsive layouts.",
+    description: "Elysian&Co is a responsive e-commerce website for a fictional jewellery brand. The functionality of the website includes shopping-cart system and product filtering. The website also implemented interactive elements such as hover effects, image transitions, and responsive layouts. Project link:elainet4.github.io/Elysian-Co.github.io/",
     duration: "3 months",
     tools: ["HTML/CSS", "JavaScript"]
   },
   "After Hour": {
     type: "video",
     videoSrc: "UIUX/After Hour Prototype.mp4",
-    description: "After Hour is a high-fidelity mobile food ordering system prototype for a coffee shop. Focusing on an intuitive user experience for ordering food and drinks, he prototype includes homepage, category page, item detail page, cart and checkout flow as well as a order-history page.",
+    description: "After Hour is a high-fidelity mobile food ordering system prototype for a coffee shop. Focusing on an intuitive user experience for ordering food and drinks, the prototype includes homepage, category page, item detail page, cart and checkout flow as well as a order-history page. Prototype Link:https://www.figma.com/proto/U2leEmb52LE2ekFgdPCQ8Z/food-ordering---Wireframe?node-id=220-2940&t=POVxWSAcyN4Y5Ioh-0&scaling=scale-down&content-scaling=fixed&page-id=13%3A7410&starting-point-node-id=220%3A2940",
     duration: "3 weeks",
     tools: ["Figma"]
   },
@@ -249,6 +249,7 @@ navLinks.forEach(link => {
     link.classList.add("active");
   }
 });
+
 
 
 
